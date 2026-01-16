@@ -30,7 +30,6 @@ TestResults/
 ####################################
 # ENTITY FRAMEWORK
 ####################################
-Migrations/*.Designer.cs
 Migrations/*.resx
 
 ####################################

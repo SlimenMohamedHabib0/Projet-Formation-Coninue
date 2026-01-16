@@ -13,7 +13,7 @@ namespace FormationContinue.Controllers
         {
             _context = context;
         }
-
+         
         [HttpGet("db")]
         public IActionResult CheckDatabase()
         {
